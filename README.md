@@ -17,3 +17,4 @@ pipenv install --dev
 - [ ] Create a new Reddit app and get credentials for usage with Reddit API.
 - [ ] Make the bot itself.
 - [ ] Write some tests.
+- [ ] Setup a deployment to some hosting provider (probably Heroku).
