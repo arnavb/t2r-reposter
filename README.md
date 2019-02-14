@@ -10,3 +10,10 @@ This bot is current WIP, so using this code would not be recommended.
 ```bash
 pipenv install --dev
 ```
+
+## TODO:
+
+- [ ] Get credentials for a Twitter app which will use the Twitter API to fetch new posts from a user.
+- [ ] Create a new Reddit app and get credentials for usage with Reddit API.
+- [ ] Make the bot itself.
+- [ ] Write some tests.
